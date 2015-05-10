@@ -1,6 +1,7 @@
 <?php
 	session_start();
 	include 'intern/settings.php';
+	# comment
 ?>
 <!doctype html>
 <html>
