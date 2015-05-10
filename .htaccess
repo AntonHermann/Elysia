@@ -1,0 +1,2 @@
+ErrorDocument 404 http://www.elysia.bplaced.com/404.php
+Options -Indexes
